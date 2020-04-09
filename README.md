@@ -13,9 +13,11 @@ The project consistis of a backend server, REST API to be used and both mobile a
 - Axios for API
 
 ### Web Version:
-<img src="https://i.imgur.com/igVDXqN.jpg"></img>
-<img src="https://i.imgur.com/XZ9NsUW.jpg"></img>
-<img src="https://i.imgur.com/Rr8QAiW.jpg"></img>
+![Login](https://raw.githubusercontent.com/davidfaria/omnistack9-web-aircnc/master/fotos-demo/login.png)
+
+![Lista de Spots](https://raw.githubusercontent.com/davidfaria/omnistack9-web-aircnc/master/fotos-demo/lista-spots.png)
+
+![Cadastro de Spots](https://raw.githubusercontent.com/davidfaria/omnistack9-web-aircnc/master/fotos-demo/cadastro-spot.png)
 
 ### Mobile Version
 |  Login         |Spots                          |Reservas                     |
