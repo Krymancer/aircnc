@@ -13,9 +13,9 @@ The project consistis of a backend server, REST API to be used and both mobile a
 - Axios for API
 
 ### Web Version:
-<img src="https://i.imgur.com/igVDXqN.jpg" height="400px"></img>
-<img src="https://i.imgur.com/XZ9NsUW.jpg" height="400px"></img>
-<img src="https://i.imgur.com/Rr8QAiW.jpg" height="400px"></img>
+<img src="https://i.imgur.com/igVDXqN.jpg"></img>
+<img src="https://i.imgur.com/XZ9NsUW.jpg"></img>
+<img src="https://i.imgur.com/Rr8QAiW.jpg"></img>
 
 ### Mobile Version
 |  Login         |Spots                          |Reservas                     |
